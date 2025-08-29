@@ -29,47 +29,47 @@ They reflect my dedication to continuous learning in **Cloud Computing, AI/ML, P
 ---
 
 ## 🌩️ Cloud & DevOps  
-- **AWS Academy Graduate – Cloud Foundations**  
-- **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate**  
-- **Google Cloud Fundamentals**  
+- [AWS Academy Graduate – Cloud Foundations](AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250403-28-ncebdt.pdf)  
+- [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](eCertificate.pdf)  
+- [Google Cloud Fundamentals](Google%20Developer%20Profile.pdf)  
 
 ---
 
 ## 🤖 Artificial Intelligence & Machine Learning  
-- **AWS Academy Machine Learning Foundations**  
-- **Keploy API Fellowship Certificate**  
-- **TensorFlow & Google Cloud ML Badges** *(via Google Developer Profile)*  
+- [AWS Academy Machine Learning Foundations](1.pdf)  
+- [Keploy API Fellowship Certificate](Shobhit_Raj_keploy_api_fellowship_certificate_compressed.pdf)  
+- [TensorFlow & Google Cloud ML Badges (via Google Developer Profile)](Google%20Developer%20Profile.pdf)  
 
 ---
 
 ## 💻 Programming & Development  
-- **Python Essentials 1 – Cisco**  
-- **Python Essentials 2 – Cisco**  
-- **JavaScript Essentials 1**  
-- **Problem Solving (Basic) – HackerRank**  
-- **SQL (Basic) – HackerRank**  
+- [Python Essentials 1 – Cisco](PythonEssentials1.pdf)  
+- [Python Essentials 2 – Cisco](Python%20essential%202.pdf)  
+- [JavaScript Essentials 1](JavaScriptEssentials1Update20250403-28-9whent.pdf)  
+- [Problem Solving (Basic) – HackerRank](problem_solving_basic%20certificate.pdf)  
+- [SQL (Basic) – HackerRank](sql_basic%20certificate.pdf)  
 
 ---
 
 ## 🔐 Cybersecurity  
-- **Cybersecurity Essentials Certification**  
+- [Cybersecurity Essentials Certification](cybersecurity.pdf)  
 
 ---
 
 ## 📊 Business, Analytics & Corporate Learning  
-- **Business for Good: Fundamentals of Corporate Responsibility – London Business School**  
-- **Corporate Governance – Coursera (Starweaver)**  
-- **Business Analytics for Decision Making – University of Colorado Boulder**  
-- **Ethical Decision Making for Success in the Tech Industry – University of Colorado Boulder**  
-- **Strategy and Game Theory for Management – IIM Ahmedabad**  
-- **Health Systems Development (Introduction) – Imperial College London**  
-- **Health Systems Development (Policy & Research) – Imperial College London**  
+- [Business for Good: Fundamentals of Corporate Responsibility – London Business School](2.pdf)  
+- [Corporate Governance – Coursera (Starweaver)](3.pdf)  
+- [Business Analytics for Decision Making – University of Colorado Boulder](4.pdf)  
+- [Ethical Decision Making for Success in the Tech Industry – University of Colorado Boulder](5.pdf)  
+- [Strategy and Game Theory for Management – IIM Ahmedabad](6.pdf)  
+- [Health Systems Development (Introduction) – Imperial College London](7.pdf)  
+- [Health Systems Development (Policy & Research) – Imperial College London](1736011276520.pdf)  
 
 ---
 
 ## 📑 Additional Certificates & Badges  
-- **Google Developer Profile** (with badges in Android, Jetpack Compose, Cloud, TensorFlow, etc.)  
-- **eCertificate (Other Professional Development)**  
+- [Google Developer Profile](Google%20Developer%20Profile.pdf) *(includes Android, Jetpack Compose, TensorFlow, Cloud, etc. badges)*  
+- [Other Professional Development Certificate](1742458783977.pdf)  
 
 ---
 
